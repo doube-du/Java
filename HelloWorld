@@ -1,0 +1,6 @@
+class MeuPrograma {
+	public static void main(String[] args){
+		//Just a simple Hello World
+		System.out.println("Hello world, and all who believe in it!\nLet's Rock");
+	}
+}
