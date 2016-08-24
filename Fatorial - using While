@@ -1,0 +1,12 @@
+public static void main(String[] args){
+  int num, resultado, index;
+	index = 1;
+	resultado = 1;
+		
+	while(index <= 10){
+		num =  index;
+		resultado = resultado * num;
+		System.out.println("O Fatorial de "+index+" é "+resultado);
+		index++;
+	}
+} 
