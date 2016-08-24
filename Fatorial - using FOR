@@ -1,0 +1,11 @@
+public static void main(String[] args){
+  int num, resultado;
+	resultado = 1;
+				
+	//calculaFatorial
+	for (int i = 1;i <= 10; i++){
+		num = i;
+		resultado = resultado * num;
+		System.out.println("O Fatorial de " + i + " é: " + resultado);
+		}
+}
